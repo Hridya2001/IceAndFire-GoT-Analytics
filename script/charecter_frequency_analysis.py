@@ -9,9 +9,6 @@ df = pd.read_csv("/home/hridya/AwsTasks/TASK15/archive/characters.csv")
 # print(df.info())      # check datatypes and null counts
 # print(df.isnull().sum())  # check missing values
 
-# From the output: I dataset has 832 rows. Character column has 13 missing values, all other columns are complete. 
-# The other columns (Actor/ess, Episodes_appeared, First_appearance, Last_appearance) are fine.
-
 
 # cleaning
 # --------
