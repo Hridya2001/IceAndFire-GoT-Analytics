@@ -1,2 +1,2 @@
-# Winter is Coming...GoT Data Analysis
-I may have arrived late to Westeros, but I have journeyed through Game of Thrones—HBO’s epic saga inspired by A Song of Ice and Fire by George R. R. Martin.This project dives into the scripts of the show, seeking to uncover the shifting voices of its characters and the rise and fall of its great houses not through prophecy but through the lens of data and visualization.
+# North Remembers: A Game of Thrones Data Exploration
+I may have arrived late to **Westeros**, but I have journeyed through Game of Thrones—HBO’s epic saga inspired by A Song of Ice and Fire by George R. R. Martin.This project dives into the scripts of the show, seeking to uncover the shifting voices of its characters and the rise and fall of its great houses not through prophecy but through the lens of data and visualization.
