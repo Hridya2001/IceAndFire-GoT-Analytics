@@ -1,4 +1,4 @@
-<div align="center">
+<div align="left">
   <img src="visuals/GoT.jpeg" width="600" length="500" alt="GameofThrones"/>
 </div>
 
