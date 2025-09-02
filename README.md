@@ -1,3 +1,3 @@
 <div align="center">
-  <img src="visuals/GoT.jpeg" width="600" length="800" alt="GameofThrones"/>
+  <img src="visuals/GoT.jpeg" width="600" length="500" alt="GameofThrones"/>
 </div>
