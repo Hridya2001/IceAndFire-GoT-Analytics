@@ -1,5 +1,4 @@
 # Winter Is Coming......Game of Thrones Analytics
-![GameofThrones](./visuals/GoT.jpeg)
-<div align="left">
+<div align="center" width="110">
   <img src="visuals/GoT.jpeg" width="600" alt="GameofThrones"/>
 </div>
