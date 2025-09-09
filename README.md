@@ -1,15 +1,24 @@
 # North Remembers: A Game of Thrones Data Exploration
-I may have arrived late to **Westeros**, but I have journeyed through Game of Thrones—HBO’s epic saga inspired by A Song of Ice and Fire by George R. R. Martin. This project dives into the scripts of the show, seeking to uncover the shifting voices of its characters and the rise and fall of its great houses not through prophecy but through the lens of data and visualization.....
+I may have arrived late to Westeros, but I have journeyed through Game of Thrones—HBO’s epic tale inspired by A Song of Ice and Fire by George R. R. Martin.
 
-Using episode appearances, dialogue counts, and house affiliations, I analyse:
+This project dives into the scripts of the show, seeking to uncover the shifting voices of its characters and the rise and fall of its great houses not through prophecy but through the lens of data and visualization.
+
+Using episode appearances, dialogue counts, and house affiliations, I explore:
 
 - Who dominates the story by screen presence.
 - Which characters take center stage each season.
 - How the great houses gain or lose influence over the course of the series.
-
-Through interactive charts and visualizations, this analysis reveals hidden patterns in dialogue and character prominence, providing a fresh lens on the Seven Kingdoms and the unfolding drama of Westeros and beyond.
+Through interactive charts and visualizations, this project highlights hidden patterns in dialogue and character prominence, offering a fresh perspective on the Seven Kingdoms.
 
 ![GoT](./visuals/GoT.jpeg)
+
+
+## Insights at a Glance
+- Tyrion Lannister dominates both episode appearances and dialogue across most seasons.
+- Jon Snow and Daenerys Targaryen rise in prominence over time, reflecting their story arcs.
+- House Lannister controls early seasons, Starks regain influence later, and Targaryens steadily rise.
+- Secondary houses like Bolton and Greyjoy experience temporary spikes in importance.
+- Dialogue and screen presence reveal how the story balances central characters with ensemble dynamics.
 
 
 ## Datasets
