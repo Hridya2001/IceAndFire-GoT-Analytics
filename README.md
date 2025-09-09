@@ -8,7 +8,7 @@ This project dives into the scripts of the show, seeking to uncover the shifting
 - How the great houses gain or lose influence over the course of the series.
 Through interactive charts and visualizations, this project highlights hidden patterns in dialogue and character prominence, offering a fresh perspective on the Seven Kingdoms.
 
-let's begin!
+Let's begin!
 ![GoT](./visuals/GoT.jpeg)
 
 
