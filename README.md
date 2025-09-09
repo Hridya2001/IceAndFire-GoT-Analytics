@@ -31,3 +31,23 @@ This dataset allows for dialogue frequency analysis, tracking who spoke the most
 **Dataset Source:** [Game of Thrones Script – All Seasons on Kaggle](https://www.kaggle.com/datasets/albenft/game-of-thrones-script-all-seasons)
   
 Together, these datasets reveal patterns such as Tyrion Lannister’s dominance in dialogue, Jon Snow’s gradual rise, and the shifting balance of power between Starks, Lannisters, Targaryens, and beyond.
+
+## Analysis and Finfings
+### 1. The Voices of the Seven Kingdoms
+Ever wondered who truly dominates the story of Game of Thrones? Is it Jon Snow, Tyrion, Daenerys, or someone else? This analysis examines the top characters by episodes appeared in Game of Thrones, providing insight into who dominated the screen time across Westeros and Essos. One simple way to measure this is by screen presence—the number of episodes a character appears in. 
+
+Let’s take a look at the top 10 characters by episodes appeared.
+![GoT](./visuals/top_10_got_characters.png)
+
+
+**Key Findings**
+
+*Tyrion Lannister*  – Frequently appearing across many episodes, his wit and schemes make him a central figure in the story.
+
+*Cersei Lannister*  – A major player in the political games of Westeros, her influence grows as her appearances accumulate over the seasons.
+
+*Jon Snow* – Steadfast and consistently present, his journey from the Wall to the heart of political intrigue makes him a narrative anchor.
+
+*Daenerys Targaryen*  – From Essos to Westeros, her dramatic rise is pivotal, though slightly less frequent than the Lannisters or Jon.
+
+*Other Supporting Characters*  – While appearing less often, they contribute meaningfully to key plot developments and interactions.
