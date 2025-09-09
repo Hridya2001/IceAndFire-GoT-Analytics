@@ -108,3 +108,6 @@ House Dialogue Trends Across Seasons
 - *House Greyjoy*  – Moderate presence across seasons, reflecting Theon, Yara, and Euron’s arcs without dominating the narrative.
 
 Dialogue trends reveal that Game of Thrones is not just about individuals, but the power dynamics of entire houses. *Lannisters* dominate early seasons, reflecting their control over King’s Landing and central role in political intrigue. *Starks* gradually regain prominence, with peaks in early and later seasons highlighting Northern storylines and their return to power. *Targaryens* rise steadily across mid-to-late seasons, mirroring Daenerys’ journey from Essos to Westeros. *Baratheons* are prominent early on but decline as key characters die. *Bolton* and *Greyjoy* experience seasonal spikes, showing that specific events can temporarily elevate secondary houses. Overall, this analysis illustrates the ebb and flow of house influence, with the story’s narrative shaped as much by collective family power as by individual heroics. The dialogue trends make it clear which houses hold the narrative spotlight in each season and how the balance of power shifts across Westeros and Essos.
+
+
+**Dracarys… 🔥**
