@@ -50,3 +50,25 @@ Let’s take a look at the top 10 characters by episodes appeared.
 
 
 By analyzing episode appearances, we see how screen presence is distributed among the characters. Tyrion and the Lannisters (Cersei included) dominate the spotlight, Jon Snow provides a steady narrative backbone, and Daenerys’ appearances highlight her rising influence. Together, the mix of central and supporting characters shapes the rich tapestry of Westeros and Essos.
+
+
+
+
+### 2. Shifting Faces of Power
+In the sprawling saga of Game of Thrones, screen time and dialogue frequency ebb and flow across seasons, reflecting the rise, fall, and shifting focus of characters. This analysis tracks the top 11 characters in terms of dialogue count, across all eight seasons, revealing how narrative attention shifts over time.
+
+Think of it as a timeline of influence: who dominated early seasons, who grew into prominence, and whose presence waned as the story progressed.
+Season-wise Top 11 Characters
+![GoT](./visuals/season_wise_top11_characters.png)
+
+
+**Key Findings**
+
+- *Tyrion Lannister*  – Consistently present across nearly all seasons, his dialogues highlight his central role in both political maneuvering and personal arcs.
+- *Jon Snow* – Dialogue peaks in later seasons mirror his journey from the Wall to the heart of Westeros’ conflicts, marking him as a steady narrative anchor.
+- *Cersei Lannister*  – Her prominence spikes in specific seasons where political intrigue dominates, reflecting her role as a cunning and ambitious player.
+- *Daenerys Targaryen*  – Gradually rises through the middle seasons, corresponding with her storyline in Essos and eventual move toward Westeros.
+- *Other Top Characters*  – Characters like Sansa Stark, Jaime Lannister, and Arya Stark show dynamic season-wise variation, illustrating how different story arcs take center stage at different times.
+
+This seasonal analysis reveals that Game of Thrones balances its focus between central figures and emerging characters, allowing the story to shift naturally between arcs in Westeros and Essos. By tracking dialogue counts season by season, we gain insight into how narrative power ebbs and flows, which characters dominate specific seasons, and how ensemble dynamics enrich the saga.
+
