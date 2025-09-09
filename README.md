@@ -34,7 +34,7 @@ Together, these datasets reveal patterns such as Tyrion Lannister’s dominance 
 
 ## Analysis and Finfings
 ### 1. The Voices of the Seven Kingdoms
-Ever wondered who truly dominates the story of Game of Thrones? Is it Jon Snow, Tyrion, Daenerys, or someone else? This analysis examines the top characters by episodes appeared in Game of Thrones, providing insight into who dominated the screen time across Westeros and Essos. One simple way to measure this is by screen presence—the number of episodes a character appears in. 
+Ever wondered who truly dominates the story of Game of Thrones? Is it Jon Snow, Daenerys Targaryen, or someone else? This analysis examines the top characters by episodes appeared in Game of Thrones, providing insight into who dominated the screen time across Westeros and Essos. One simple way to measure this is by screen presence—the number of episodes a character appears in. 
 
 Let’s take a look at the top 10 characters by episodes appeared.
 ![GoT](./visuals/top_10_got_characters.png)
@@ -42,12 +42,8 @@ Let’s take a look at the top 10 characters by episodes appeared.
 
 **Key Findings**
 
-*Tyrion Lannister*  – Frequently appearing across many episodes, his wit and schemes make him a central figure in the story.
-
-*Cersei Lannister*  – A major player in the political games of Westeros, her influence grows as her appearances accumulate over the seasons.
-
-*Jon Snow* – Steadfast and consistently present, his journey from the Wall to the heart of political intrigue makes him a narrative anchor.
-
-*Daenerys Targaryen*  – From Essos to Westeros, her dramatic rise is pivotal, though slightly less frequent than the Lannisters or Jon.
-
-*Other Supporting Characters*  – While appearing less often, they contribute meaningfully to key plot developments and interactions.
+- *Tyrion Lannister*  – Frequently appearing across many episodes, his wit and schemes make him a central figure in the story.
+- *Cersei Lannister*  – A major player in the political games of Westeros, her influence grows as her appearances accumulate over the seasons.
+- *Jon Snow* – Steadfast and consistently present, his journey from the Wall to the heart of political intrigue makes him a narrative anchor.
+- *Daenerys Targaryen*  – From Essos to Westeros, her dramatic rise is pivotal, though slightly less frequent than the Lannisters or Jon.
+- *Other Supporting Characters*  – While appearing less often, they contribute meaningfully to key plot developments and interactions.
