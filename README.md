@@ -58,6 +58,7 @@ By analyzing episode appearances, we see how screen presence is distributed amon
 In the sprawling saga of Game of Thrones, screen time and dialogue frequency ebb and flow across seasons, reflecting the rise, fall, and shifting focus of characters. This analysis tracks the top 11 characters in terms of dialogue count, across all eight seasons, revealing how narrative attention shifts over time.
 
 Think of it as a timeline of influence: who dominated early seasons, who grew into prominence, and whose presence waned as the story progressed.
+
 Season-wise Top 11 Characters
 ![GoT](./visuals/season_wise_top11_characters.png)
 
