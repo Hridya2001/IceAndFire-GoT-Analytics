@@ -1,7 +1,13 @@
 # North Remembers: A Game of Thrones Data Exploration
-I may have arrived late to **Westeros**, but I have journeyed through Game of Thrones—HBO’s epic saga inspired by A Song of Ice and Fire by George R. R. Martin.This project dives into the scripts of the show, seeking to uncover the shifting voices of its characters and the rise and fall of its great houses not through prophecy but through the lens of data and visualization.....
+I may have arrived late to **Westeros**, but I have journeyed through Game of Thrones—HBO’s epic saga inspired by A Song of Ice and Fire by George R. R. Martin. This project dives into the scripts of the show, seeking to uncover the shifting voices of its characters and the rise and fall of its great houses not through prophecy but through the lens of data and visualization.....
 
+Using episode appearances, dialogue counts, and house affiliations, I analyse:
 
+- Who dominates the story by screen presence.
+- Which characters take center stage each season.
+- How the great houses gain or lose influence over the course of the series.
+
+Through interactive charts and visualizations, this analysis reveals hidden patterns in dialogue and character prominence, providing a fresh lens on the Seven Kingdoms and the unfolding drama of Westeros and beyond.
 
 ![GoT](./visuals/GoT.jpeg)
 
@@ -77,7 +83,7 @@ This seasonal analysis reveals that Game of Thrones balances its focus between c
 
 
 ### 3. The Rise and Fall of Great Houses
-In Game of Thrones, the power and prominence of noble houses shift constantly, influenced by battles, alliances, and betrayals. To understand these dynamics, we analyze dialogue trends for key houses across all seasons. Dialogue count serves as a proxy for narrative focus: houses with more lines are more central to the unfolding story in that season.
+The power and prominence of noble houses shift constantly, influenced by battles, alliances, and betrayals. To understand these dynamics, we analyze dialogue trends for key houses across all seasons. Dialogue count serves as a proxy for narrative focus: houses with more lines are more central to the unfolding story in that season.
 
 This analysis covers the major houses: Stark, Lannister, Targaryen, Baratheon, Bolton, and Greyjoy, revealing which houses dominated the narrative in each season and how their influence changed over time.
 
