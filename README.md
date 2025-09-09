@@ -23,6 +23,7 @@ Second One **Script Dataset**. This file contains dialogue transcripts from ever
 - *Character name* 
 - *Dialogue line (sentence spoken)*
 This dataset allows for dialogue frequency analysis, tracking who spoke the most, and observing character presence across seasons.
+
 **Dataset Source:** [Game of Thrones Script – All Seasons on Kaggle](https://www.kaggle.com/datasets/albenft/game-of-thrones-script-all-seasons)
   
 Together, these datasets reveal patterns such as Tyrion Lannister’s dominance in dialogue, Jon Snow’s gradual rise, and the shifting balance of power between Starks, Lannisters, Targaryens, and beyond.
