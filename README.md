@@ -13,6 +13,7 @@ This project is based on two datasets, First One **Character Dataset**. This fil
 - *Number of episodes they appeared in*
 - *Year of first appearance*
 - *Year of last appearance*
+
 This dataset helps analyze character presence across the series and compare how long different roles lasted.
 
 
@@ -24,6 +25,7 @@ Second One **Script Dataset**. This file contains dialogue transcripts from ever
 - *Episode title*
 - *Character name* 
 - *Dialogue line (sentence spoken)*
+
 This dataset allows for dialogue frequency analysis, tracking who spoke the most, and observing character presence across seasons.
 
 **Dataset Source:** [Game of Thrones Script – All Seasons on Kaggle](https://www.kaggle.com/datasets/albenft/game-of-thrones-script-all-seasons)
